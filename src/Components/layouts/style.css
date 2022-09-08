@@ -1,0 +1,60 @@
+.header{
+    display: flex;
+    width:100VW;
+    background-color: #f1f3f5;
+    color:black;
+}
+.header div{
+    width:10vw;
+    margin:auto;
+    font-size:20px;
+    text-align:center;
+    padding:10px;
+}
+.nav {
+    width:70vw;
+    display:flex;
+    margin:auto;
+    color:black;
+}
+.nav ul{
+    display:flex;
+    
+}
+.nav ul li{
+    margin:20px;
+}
+section tr {
+    width:90vw;
+    margin:auto;
+    text-align:center;
+    border: 1px solid black;
+}
+section tr th{
+    border:1px solid black;
+    width:18vw;
+    background-color:#f1f3f5;
+    padding:10px;
+    margin:auto;
+    font-size:20px;
+}
+section td {
+    border: 1px solid black;
+    margin:auto;
+    padding: 10px;
+    font-weight:500;
+    font-size:20px;
+}
+heads{
+    display:flex;
+}
+heads col1{
+    text-align:center;
+    width:50vw;
+}
+h1{
+    text-align:center;
+    font-size:40px;
+    font-weight:700;
+    color:maroon;
+}
