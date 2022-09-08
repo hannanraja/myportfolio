@@ -58,3 +58,19 @@ h1{
     font-weight:700;
     color:maroon;
 }
+.projectsection{
+    margin-left: 30px;
+    display:flex;
+}
+.col13{
+    width:35vw;
+}
+.col23{
+    width:65vw;
+}
+    .projectsection h2 {
+         
+    }
+    .projectsection h3 {
+         
+    }
